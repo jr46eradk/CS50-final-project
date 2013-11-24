@@ -7,7 +7,7 @@ Fall 2013
 
 Group Members:
 	Emily Houlihan
-	Jackie Marinez
+	Jackie Martinez
 	Nick Joseph
 
 Project Design:
